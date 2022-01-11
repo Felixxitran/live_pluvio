@@ -6,7 +6,7 @@ import { Typography } from '@mui/material'
 import { Grid } from '@mui/material'
 const VideoDetails = (props) => {
   const { videos } = props
-  if (!videos) return <h1>Loading...</h1>
+  if (!videos) return <h1>Please make a search first...</h1>
   const { snippet } = videos
   const img_link = snippet.thumbnails.medium.url
   const title = snippet.title
