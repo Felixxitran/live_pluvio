@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/live_pluvio/static/css/main.73d69c94.chunk.css",
+    "main.js": "/live_pluvio/static/js/main.9c656183.chunk.js",
+    "main.js.map": "/live_pluvio/static/js/main.9c656183.chunk.js.map",
+    "runtime-main.js": "/live_pluvio/static/js/runtime-main.281dd20f.js",
+    "runtime-main.js.map": "/live_pluvio/static/js/runtime-main.281dd20f.js.map",
+    "static/js/2.1e35bf4f.chunk.js": "/live_pluvio/static/js/2.1e35bf4f.chunk.js",
+    "static/js/2.1e35bf4f.chunk.js.map": "/live_pluvio/static/js/2.1e35bf4f.chunk.js.map",
+    "index.html": "/live_pluvio/index.html",
+    "static/css/main.73d69c94.chunk.css.map": "/live_pluvio/static/css/main.73d69c94.chunk.css.map",
+    "static/js/2.1e35bf4f.chunk.js.LICENSE.txt": "/live_pluvio/static/js/2.1e35bf4f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.281dd20f.js",
+    "static/js/2.1e35bf4f.chunk.js",
+    "static/css/main.73d69c94.chunk.css",
+    "static/js/main.9c656183.chunk.js"
+  ]
+}
